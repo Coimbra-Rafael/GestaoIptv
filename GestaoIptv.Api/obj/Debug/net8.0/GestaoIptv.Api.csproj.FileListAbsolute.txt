@@ -31,3 +31,14 @@ C:\Users\rcoim\source\repos\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\refint\Ge
 C:\Users\rcoim\source\repos\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.pdb
 C:\Users\rcoim\source\repos\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.genruntimeconfig.cache
 C:\Users\rcoim\source\repos\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\ref\GestaoIptv.Api.dll
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.csproj.AssemblyReference.cache
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.AssemblyInfoInputs.cache
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.AssemblyInfo.cs
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.csproj.CoreCompileInputs.cache
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.sourcelink.json
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.dll
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\refint\GestaoIptv.Api.dll
+C:\Projects\GestaoIptv\GestaoIptv.Api\obj\Debug\net8.0\GestaoIptv.Api.pdb

@@ -12,6 +12,7 @@ public class GestaoDbContext : DbContext
 
         modelBuilder.Entity<Users>().ToTable("users");
         modelBuilder.Entity<Users>().HasKey(x => x.Id);
+        modelBuilder.Entity<Users>().Property(x => x.Username).HasMaxLength(150);
         modelBuilder.Entity<Users>().Property(x => x.Username).HasMaxLength(60);
         modelBuilder.Entity<Users>().Property(x => x.Password).HasMaxLength(60);
         modelBuilder.Entity<Users>().Property(x => x.State);

@@ -1,25 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\",
+  "WorkspaceRootPath": "C:\\Projects\\GestaoIptv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\users\\rcoim\\source\\repos\\gestaoiptv\\gestaoiptv.api\\persistence\\context\\gestaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\projects\\gestaoiptv\\gestaoiptv.api\\persistence\\repositories\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|solutionrelative:gestaoiptv.api\\persistence\\repositories\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\projects\\gestaoiptv\\gestaoiptv.api\\persistence\\context\\gestaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|solutionrelative:gestaoiptv.api\\persistence\\context\\gestaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\users\\rcoim\\source\\repos\\gestaoiptv\\gestaoiptv.api\\gestaoiptv.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|solutionrelative:gestaoiptv.api\\gestaoiptv.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\users\\rcoim\\source\\repos\\gestaoiptv\\gestaoiptv.api\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\projects\\gestaoiptv\\gestaoiptv.api\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|solutionrelative:gestaoiptv.api\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\users\\rcoim\\source\\repos\\gestaoiptv\\gestaoiptv.api\\entities\\abstractions\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\projects\\gestaoiptv\\gestaoiptv.api\\gestaoiptv.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|solutionrelative:gestaoiptv.api\\gestaoiptv.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\projects\\gestaoiptv\\gestaoiptv.api\\persistence\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|solutionrelative:gestaoiptv.api\\persistence\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\projects\\gestaoiptv\\gestaoiptv.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|solutionrelative:gestaoiptv.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\projects\\gestaoiptv\\gestaoiptv.api\\entities\\abstractions\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|solutionrelative:gestaoiptv.api\\entities\\abstractions\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\users\\rcoim\\source\\repos\\gestaoiptv\\gestaoiptv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|c:\\projects\\gestaoiptv\\gestaoiptv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DDAA92B-9248-45AE-ACDE-7A8E2DCE7F13}|GestaoIptv.Api\\GestaoIptv.Api.csproj|solutionrelative:gestaoiptv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,67 +47,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GestaoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\GestaoIptv.Api\\Persistence\\Context\\GestaoDbContext.cs",
-              "RelativeDocumentMoniker": "GestaoIptv.Api\\Persistence\\Context\\GestaoDbContext.cs",
-              "ToolTip": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\GestaoIptv.Api\\Persistence\\Context\\GestaoDbContext.cs",
-              "RelativeToolTip": "GestaoIptv.Api\\Persistence\\Context\\GestaoDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Persistence\\Repositories\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "GestaoIptv.Api\\Persistence\\Repositories\\Services\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Persistence\\Repositories\\Services\\UserRepository.cs*",
+              "RelativeToolTip": "GestaoIptv.Api\\Persistence\\Repositories\\Services\\UserRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:23:05.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GestaoIptv.Api",
-              "DocumentMoniker": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\GestaoIptv.Api\\GestaoIptv.Api.csproj",
-              "RelativeDocumentMoniker": "GestaoIptv.Api\\GestaoIptv.Api.csproj",
-              "ToolTip": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\GestaoIptv.Api\\GestaoIptv.Api.csproj",
-              "RelativeToolTip": "GestaoIptv.Api\\GestaoIptv.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T10:22:14.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\GestaoIptv.Api\\Entities\\Users.cs",
-              "RelativeDocumentMoniker": "GestaoIptv.Api\\Entities\\Users.cs",
-              "ToolTip": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\GestaoIptv.Api\\Entities\\Users.cs",
-              "RelativeToolTip": "GestaoIptv.Api\\Entities\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:18:29.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\GestaoIptv.Api\\Entities\\Abstractions\\EntityBase.cs",
-              "RelativeDocumentMoniker": "GestaoIptv.Api\\Entities\\Abstractions\\EntityBase.cs",
-              "ToolTip": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\GestaoIptv.Api\\Entities\\Abstractions\\EntityBase.cs",
-              "RelativeToolTip": "GestaoIptv.Api\\Entities\\Abstractions\\EntityBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:17:39.253Z",
+              "WhenOpened": "2024-09-04T17:50:46.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Persistence\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "GestaoIptv.Api\\Persistence\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Persistence\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "GestaoIptv.Api\\Persistence\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:24:10.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "GestaoIptv.Api\\Dockerfile",
+              "ToolTip": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Dockerfile",
+              "RelativeToolTip": "GestaoIptv.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-04T17:19:42.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestaoDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Persistence\\Context\\GestaoDbContext.cs",
+              "RelativeDocumentMoniker": "GestaoIptv.Api\\Persistence\\Context\\GestaoDbContext.cs",
+              "ToolTip": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Persistence\\Context\\GestaoDbContext.cs",
+              "RelativeToolTip": "GestaoIptv.Api\\Persistence\\Context\\GestaoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:23:05.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestaoIptv.Api.csproj",
+              "DocumentMoniker": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\GestaoIptv.Api.csproj",
+              "RelativeDocumentMoniker": "GestaoIptv.Api\\GestaoIptv.Api.csproj",
+              "ToolTip": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\GestaoIptv.Api.csproj",
+              "RelativeToolTip": "GestaoIptv.Api\\GestaoIptv.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T10:22:14.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "GestaoIptv.Api\\Entities\\Users.cs",
+              "ToolTip": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Entities\\Users.cs",
+              "RelativeToolTip": "GestaoIptv.Api\\Entities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:18:29.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Entities\\Abstractions\\EntityBase.cs",
+              "RelativeDocumentMoniker": "GestaoIptv.Api\\Entities\\Abstractions\\EntityBase.cs",
+              "ToolTip": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Entities\\Abstractions\\EntityBase.cs",
+              "RelativeToolTip": "GestaoIptv.Api\\Entities\\Abstractions\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:17:39.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\GestaoIptv.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Program.cs",
               "RelativeDocumentMoniker": "GestaoIptv.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\rcoim\\source\\repos\\GestaoIptv\\GestaoIptv.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\GestaoIptv\\GestaoIptv.Api\\Program.cs",
               "RelativeToolTip": "GestaoIptv.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:11:08.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T10:11:08.243Z"
             }
           ]
         }
