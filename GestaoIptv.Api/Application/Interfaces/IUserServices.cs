@@ -6,6 +6,6 @@ namespace GestaoIptv.Api.Application.Interfaces;
 public interface IUserServices : IDisposable
 {
     Task<IEnumerable<UsersDto>> FindAllUsersAsync();
-    Task<IEnumerable<UsersDto>> FindUsersByUsername(string name);
+    Task<IEnumerable<UsersDto>> FindUsersByUsernameAsync(string name);
     Task<UsersDto> FindUserByEmailAsync(string email);
 }

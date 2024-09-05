@@ -19,7 +19,7 @@ public class UserRepository : IUserRepository
         return await _context.Users.AsNoTracking().ToListAsync();
     }
 
-    public async Task<IEnumerable<Users>> FindUsersByUsername(string name)
+    public async Task<IEnumerable<Users>> FindUsersByUsernameAsync(string name)
     {
         return await _context.Users.AsNoTracking().Where(x => x.Username.Contains(name)).ToListAsync();
     }

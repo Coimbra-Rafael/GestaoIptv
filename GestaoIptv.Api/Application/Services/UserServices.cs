@@ -31,13 +31,19 @@ public class UserServices : IUserServices
         return new UsersDto(user.Email, user.Username, user.State);
     }
 
-    public Task<IEnumerable<UsersDto>> FindUsersByUsername(string name)
+    public async Task<IEnumerable<UsersDto>> FindUsersByUsernameAsync(string name)
     {
-        throw new NotImplementedException();
+        var users = await _persistence.FindUsersByUsernameAsync(name);
+        var usersDto = new List<UsersDto>();
+        foreach (var user in users)
+        {
+            usersDto.Add(new UsersDto(user.Email, user.Username, user.State));
+        }
+        return usersDto;
     }
 
     public void Dispose()
     {
-        throw new NotImplementedException();
+       _persistence.Dispose();
     }
 }
