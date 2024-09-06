@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace GestaoIptv.Api.Persistence.Context;
 
-public class GestaoDbContext : DbContext
+public class GestaoDbContext(DbContextOptions option) : DbContext(option)
 {
     public DbSet<Users> Users { get; set; }
 
