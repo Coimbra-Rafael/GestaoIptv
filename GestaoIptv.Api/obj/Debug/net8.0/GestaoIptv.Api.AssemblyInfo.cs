@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestaoIptv.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dec9db053031ca224b60a40d036a63212b83cfd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6b93961d9e74f1b4707a4584ace94d899179bee")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestaoIptv.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestaoIptv.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

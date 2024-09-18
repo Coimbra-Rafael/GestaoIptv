@@ -82,8 +82,7 @@
               "RelativeToolTip": "GestaoIptv.Api\\Persistence\\UnitOfWork\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T01:51:13.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T01:51:13.176Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "GestaoIptv.Api\\Persistence\\UnitOfWork\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T01:45:43.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T01:45:43.038Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "GestaoIptv.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T01:42:09.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T01:42:09.59Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "GestaoIptv.Api\\Endpoints\\UserEndpoint.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T03:54:18.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T03:54:18.338Z"
             },
             {
               "$type": "Document",
@@ -146,8 +142,7 @@
               "RelativeToolTip": "GestaoIptv.Api\\Application\\Services\\UserServices.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T17:45:01.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T17:45:01.399Z"
             },
             {
               "$type": "Document",
@@ -159,8 +154,7 @@
               "RelativeToolTip": "GestaoIptv.Api\\Application\\Interfaces\\IUserServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T17:06:18.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T17:06:18.24Z"
             },
             {
               "$type": "Document",
@@ -196,8 +190,7 @@
               "RelativeToolTip": "GestaoIptv.Api\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-04T17:19:42.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T17:19:42.02Z"
             },
             {
               "$type": "Document",
@@ -209,8 +202,7 @@
               "RelativeToolTip": "GestaoIptv.Api\\Persistence\\Context\\GestaoDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:23:05.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T10:23:05.39Z"
             },
             {
               "$type": "Document",
@@ -234,8 +226,7 @@
               "RelativeToolTip": "GestaoIptv.Api\\Entities\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:18:29.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T10:18:29.731Z"
             },
             {
               "$type": "Document",
@@ -247,8 +238,7 @@
               "RelativeToolTip": "GestaoIptv.Api\\Entities\\Abstractions\\EntityBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:17:39.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T10:17:39.253Z"
             },
             {
               "$type": "Document",
