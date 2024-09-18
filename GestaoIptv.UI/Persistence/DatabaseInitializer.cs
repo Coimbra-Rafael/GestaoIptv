@@ -8,11 +8,11 @@ public class DatabaseInitializer : IDisposable
     {
         try
         {
-            if (!File.Exists("Gest.db"))
+            if (!File.Exists("GestaoIptvDatabase.db"))
             {
 
-                SQLiteConnection.CreateFile("iptv.db");
-                using (var connection = new SQLiteConnection("Data Source=iptv.db"))
+                SQLiteConnection.CreateFile("GestaoIptvDatabase.db");
+                using (var connection = new SQLiteConnection("Data Source=GestaoIptvDatabase.db"))
                 {
                     connection.Open();
 

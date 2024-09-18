@@ -26,10 +26,29 @@ public partial class LoginForm : Form
 
     private void btnLogin_Click(object sender, EventArgs e)
     {
-        string username = txtUsername.Text;
-        string password = txtPassword.Text;
+        try
+        {
+            using (var userRepository = new UsuariosRepository()) 
+            {
+                var userExists = userRepository.GetUsersByNomeUsuarioAndPassword(txtUsername.Text, txtPassword.Text).GetAwaiter().GetResult();
 
+                if (userExists is not null)
+                {
 
+                }
+                else 
+                {
+                    MessageBox.Show("Usuário ou Senha incorretos!");
+                }
+            }
+        }
+        catch (Exception)
+        {
+
+            throw;
+        }
+
+        
     }
 
     private void txtPassword_KeyPress(object sender, KeyPressEventArgs e)
